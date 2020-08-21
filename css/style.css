@@ -80,7 +80,7 @@ line-height: 42px;
   height: 389px;
   background-color: #fff;
   border-radius: 50%;
-  background-image: url('/img/ava.jpg');
+  background-image: url('img/ava.jpg');
   background-repeat: no-repeat;
   background-position: center top -250px;
   border: 13px solid #fff;
